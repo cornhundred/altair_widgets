@@ -2,7 +2,7 @@
 
 ![](https://api.travis-ci.org/altair-viz/altair_widgets.svg?branch=master)
 
-Altair Widgets are a tool to easily allow to interact with Altair charts in the
+Altair Widgets are a tool to easily allow users to interact with Altair charts in the
 Jupyter notebook.
 
 ![](examples/iris-basic.gif)
